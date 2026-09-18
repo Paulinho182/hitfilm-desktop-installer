@@ -1,0 +1,11 @@
+# This file is used to override language statistics
+# Normalize line endings
+# Project-specific overrides
+src/*.ts linguist-detectable
+*.html linguist-vendored
+*.woff binary
+*.min.js linguist-generated
+*.jpg binary
+*.tsx linguist-detectable
+*.htm linguist-vendored
+*.png binary
